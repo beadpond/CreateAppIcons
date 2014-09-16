@@ -156,7 +156,7 @@ try
       doc.activeHistoryState = startState; // undo resize
     }
 
-    alert("iOS Icons created!");
+    alert("App Icons created!");
   }
 }
 catch (exception)
