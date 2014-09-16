@@ -129,7 +129,9 @@ try
       {"name": "Icon-hdpi",             "size":72},
       {"name": "Icon-xhdpi",             "size":96},
       {"name": "Icon-xxhdpi",             "size":144},
+      {"name": "Icon-xxxhdpi",          "size":192}
       {"name": "apple-touch-icon",          "size":128},
+      {"name": "favicon",          "size":16}
       ];
 
 // The "apple-touch-icon" can be added to the root directory of your website to be used as the icon if someone bookmarks your site on their device, e.g. "Add to Home Screen"
