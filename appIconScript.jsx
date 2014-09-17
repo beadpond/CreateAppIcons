@@ -136,7 +136,7 @@ try
       {"name": "Icon-hdpi",             "size":72},
       {"name": "Icon-xhdpi",             "size":96},
       {"name": "Icon-xxhdpi",             "size":144},
-      {"name": "Icon-xxxhdpi",          "size":192}
+      {"name": "Icon-xxxhdpi",          "size":192},
       {"name": "apple-touch-icon",          "size":128},
       {"name": "favicon",          "size":16}
       ];
